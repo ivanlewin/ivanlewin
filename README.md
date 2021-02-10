@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ivanlewin/ivanlewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤠 My name's Iván Lewin
 
-Here are some ideas to get you started:
+🐱‍💻 I'm a Junior Developer working my MERN stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[Twitter](https://twitter.com/ivanlewin)
+[LinkedIn](https://www.linkedin.com/in/ivanlewin)
+
+### Languages and Tools:
+
+* JavaScript
+  * Node.js, TypeScript, React
+* Python
+  * Selenium, Pandas
+* R
+  * Shiny, Tidyverse
+
+### GitHub Stats:
+
+<table>
+  <tr>
+    <td align="left" style="padding=0; width=0;">
+      <img align="left" alt="ivanlewin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivanlewin&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td align="right" style="padding=0; width=0;">
+      <img align="right" alt="ivanlewin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlewin&show_icons=true&hide_border=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+##### Made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
