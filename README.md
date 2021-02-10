@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
-[Twitter](https://twitter.com/ivanlewin)
-[LinkedIn](https://www.linkedin.com/in/ivanlewin)
-[Stack Overflow](https://stackoverflow.com/users/12253585/ivanlewin)
+* [Twitter](https://twitter.com/ivanlewin)
+* [LinkedIn](https://www.linkedin.com/in/ivanlewin)
+* [Stack Overflow](https://stackoverflow.com/users/12253585/ivanlewin)
 
 ### Languages and Tools:
 
